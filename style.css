@@ -1,0 +1,26 @@
+td, tr, th, table {
+    border: 1px solid pink;
+    border-collapse: collapse;
+    padding: 15px;
+}
+table {
+    border: 5px solid pink;
+    text-align: center;
+    vertical-align: bottom;
+    color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+thead {
+    border: 5px solid pink;
+    background-color: rgb(231, 71, 85);
+  
+    font-weight: bolder;
+    color: lightyellow;
+}
+.fila1 {
+    background-color: lemonchiffon;
+}  
+.fila2 {
+    background-color: lightcyan;
+}
+    
